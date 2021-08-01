@@ -10,9 +10,11 @@ Enables users to retrieves trending videos from Wired Magazine’s channel on Da
   - Click on a video to see more details about the video
   - Add the video their favorites list
 
-API Wired Magazine’s channel: https://api.dailymotion.com/user/x1a udmk/videos?limit=20
+API Wired Magazine’s channel: https://api.dailymotion.com/user/x1audmk/videos?limit=20
 
 
-### 🖼️ Screenshots
+### 🖼️ Screenshots / Record
 
 ![](./screens/Screens.png)
+
+![](./screens/VideoMagazineRecord.mov)
