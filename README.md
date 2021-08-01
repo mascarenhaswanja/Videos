@@ -1,7 +1,7 @@
 # Video List - React Native
 A cross platform React Native using API
 
-<span style="display:block;text-align:center">![](./screens/VideoMagazineRecord.mov)</span>
+![](./screens/VideoMagazineRecord.mov)
 
 ## :books: Project Description
  
